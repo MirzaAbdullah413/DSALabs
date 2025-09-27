@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lab01try" />
+		<Option execution_dir="D:/" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab01try" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab01try" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="D:/Lab 01/Lab01try/include/Circle.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Cube.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Rectangle.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Shape.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Shape_2D.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Shape_3D.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Sphere.h" />
+		<Unit filename="D:/Lab 01/Lab01try/include/Square.h" />
+		<Unit filename="D:/Lab 01/Lab01try/main.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Circle.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Cube.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Rectangle.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Shape.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Shape_2D.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Shape_3D.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Sphere.cpp" />
+		<Unit filename="D:/Lab 01/Lab01try/src/Square.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
