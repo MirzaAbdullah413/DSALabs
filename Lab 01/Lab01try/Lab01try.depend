@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1758857764 source:z:\dsa labs\lab 01\lab01try\main.cpp
+	<iostream>
+
+1758867241 source:z:\dsa labs\lab 01\lab01try\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<string>
+
+1758866165 z:\dsa labs\lab 01\lab01try\include\shape.h
+	<iostream>
+	<string>
+
+1758869253 source:z:\dsa labs\lab 01\lab01try\src\shape_3d.cpp
+	"Shape_3D.h"
+	<iostream>
+	<string>
+
+1758867110 z:\dsa labs\lab 01\lab01try\include\shape_3d.h
+	<Shape.h>
+	<iostream>
+	<string>
+
+1758867947 source:z:\dsa labs\lab 01\lab01try\src\shape_2d.cpp
+	"Shape_2D.h"
+	<iostream>
+	<string>
+
+1758867947 z:\dsa labs\lab 01\lab01try\include\shape_2d.h
+	<iostream>
+	"Shape.h"
+	<string>
+
+1758868408 source:z:\dsa labs\lab 01\lab01try\src\sphere.cpp
+	"Sphere.h"
+	<iostream>
+	<string>
+
+1758868330 z:\dsa labs\lab 01\lab01try\include\sphere.h
+	<iostream>
+	<string>
+	"Shape_3D.h"
+
+1758891551 source:d:\lab 01\lab01try\main.cpp
+	"Shape.h"
+	"Sphere.h"
+	"Cube.h"
+	"Rectangle.h"
+	"Square.h"
+	"Circle.h"
+	<iostream>
+	<string>
+
+1758867241 source:d:\lab 01\lab01try\src\shape.cpp
+	"Shape.h"
+	<iostream>
+	<string>
+
+1758917549 d:\lab 01\lab01try\include\shape.h
+	<iostream>
+	<string>
+
+1758867947 source:d:\lab 01\lab01try\src\shape_2d.cpp
+	"Shape_2D.h"
+	<iostream>
+	<string>
+
+1758917549 d:\lab 01\lab01try\include\shape_2d.h
+	<iostream>
+	"Shape.h"
+	<string>
+
+1758869253 source:d:\lab 01\lab01try\src\shape_3d.cpp
+	"Shape_3D.h"
+	<iostream>
+	<string>
+
+1758867110 d:\lab 01\lab01try\include\shape_3d.h
+	<Shape.h>
+	<iostream>
+	<string>
+
+1758890765 source:d:\lab 01\lab01try\src\cube.cpp
+	"Cube.h"
+	<iostream>
+	<string>
+
+1758917549 d:\lab 01\lab01try\include\cube.h
+	<iostream>
+	<string>
+	"Shape_3D.h"
+
+1758891289 source:d:\lab 01\lab01try\src\sphere.cpp
+	"Sphere.h"
+	<iostream>
+	<string>
+
+1758868330 d:\lab 01\lab01try\include\sphere.h
+	<iostream>
+	<string>
+	"Shape_3D.h"
+
+1758891289 source:d:\lab 01\lab01try\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+	<string>
+
+1758917549 d:\lab 01\lab01try\include\rectangle.h
+	<iostream>
+	<string>
+	"Shape_2D.h"
+
+1758891289 source:d:\lab 01\lab01try\src\square.cpp
+	"Square.h"
+	<iostream>
+	<string>
+
+1758917549 d:\lab 01\lab01try\include\square.h
+	"Shape_2D.h"
+	<iostream>
+	<string>
+
+1758891289 source:d:\lab 01\lab01try\src\circle.cpp
+	"Circle.h"
+	<iostream>
+	<string>
+
+1758896309 d:\lab 01\lab01try\include\circle.h
+	"Shape_2D.h"
+	<iostream>
+	<string>
+
